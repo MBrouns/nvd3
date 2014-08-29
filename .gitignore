@@ -25,3 +25,5 @@ Thumbs.db
 #  nodejs packages   #
 ######################
 node_modules
+
+.idea/
